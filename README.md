@@ -141,6 +141,12 @@ This project runs entirely **offline** on your own PC — no API keys or cloud c
 BSc (Hons) Artificial Intelligence & Data Science  
 Robert Gordon University (via IIT, Sri Lanka)  
 
+---
+
+## Issues
+
+Feel free to add any issues you find.
+
 
 ---
 
