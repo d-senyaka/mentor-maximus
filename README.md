@@ -1,5 +1,5 @@
 
-# 🧠 AI Study Assistant
+# 🧠 mentor maximus : AI Study Assistant
 
 An AI-powered study companion that helps students understand lecture material through intelligent question answering, slide summarization, PDF summaries, and flashcard generation. Built with LangChain, Hugging Face Transformers, and Gradio - and fully powered by open-source LLMs running on your local GPU.
 
